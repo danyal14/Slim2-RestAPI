@@ -1,1 +1,1 @@
-# Slim2-RestAPI
+# RestAPIWithSlim
